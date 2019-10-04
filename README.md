@@ -1,12 +1,12 @@
 # WEEK 1
 --------
 ## Index
- ### Microcontrollers And Microprocessors
- ### Pull up/Pull down Resistors
- ### communications protocols
-  #### UART
-  #### SPI
-  #### I2C
+ * ### Microcontrollers And Microprocessors
+ * ### Pull up/Pull down Resistors
+ * ### communications protocols
+  * #### UART
+  * #### SPI
+  * #### I2C
  ### Arduino
   #### fade
   #### ultrasonic
