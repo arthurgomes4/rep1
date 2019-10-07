@@ -19,6 +19,7 @@
       * [read](https://www.electronics-tutorials.ws/logic/pull-up-resistor.html)
   5. comms protocols
       * UART|I2C|SPI
+        -----|-----|-----
         1 to 1|simplex|duplex
         Asyn|Syn|Syn
         [watch](https://www.youtube.com/watch?v=IyGwvGzrqp8&t=627s)
