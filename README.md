@@ -35,11 +35,11 @@
 # week 2
   1. libraries
       [link](https://github.com/RoboManipal-9-0/Libraries/tree/master/BotBase)
-      did:
-      foursbase
-      botbase
-      lsa08
-      debugger serial
+        did:
+        foursbase
+        botbase
+        lsa08
+        debugger serial
   2. C++
  --------
 # Arduino
