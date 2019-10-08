@@ -22,7 +22,8 @@
         -----|-----|-----
         1 to 1|simplex|duplex
         Asyn|Syn|Syn
-        [watch](https://www.youtube.com/watch?v=IyGwvGzrqp8&t=627s)
+       
+       [watch](https://www.youtube.com/watch?v=IyGwvGzrqp8&t=627s)
   6. kinematics
       * transformation matrix
       * angular velocity
@@ -43,9 +44,16 @@
  --------
 # Arduino
   1. fade
+     [check code](https://github.com/arthurgomes4/rep1fade/tree/master/)
   2. 8array IR
+     [check code](https://github.com/arthurgomes4/rep1/tree/master/8array_IR)
   3. IR
+     [check code](https://github.com/arthurgomes4/rep1/tree/master/IR)
   4. ultrasonic
+     [check code](https://github.com/arthurgomes4/rep1/tree/master/ultrasonic)
   5. megaserial comms
+     [check code](https://github.com/arthurgomes4/rep1/tree/master/MegaSerialComm)   
   6. Motordriver l239d
-
+     [check code](https://github.com/arthurgomes4/rep1/tree/master/Motorl239d)
+  7. Motordriver mdd10a with 4 wheels
+     [check code](https://github.com/arthurgomes4/rep1/tree/master/4wheelmdd10a)
