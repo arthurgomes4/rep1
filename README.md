@@ -34,12 +34,12 @@
  -------
 # week 2
   1. libraries
-      [link](https://github.com/RoboManipal-9-0/Libraries/tree/master/BotBase)
+        [link](https://github.com/RoboManipal-9-0/Libraries/tree/master/BotBase)
         did:
-        foursbase
-        botbase
-        lsa08
-        debugger serial
+        * foursbase
+        * botbase
+        * lsa08
+        * debugger serial
   2. C++
      [code](https://github.com/arthurgomes4/rep1/blob/master/task%202%20matrices.cpp)
  --------
