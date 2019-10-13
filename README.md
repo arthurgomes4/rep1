@@ -34,7 +34,7 @@
  -------
 # week 2
   1. libraries
-      *[link](https://github.com/RoboManipal-9-0/Libraries/tree/master/BotBase)
+      * [link](https://github.com/RoboManipal-9-0/Libraries/tree/master/BotBase)
           did:
         * foursbase
         * botbase
