@@ -28,7 +28,7 @@
       * transformation matrix
       * angular velocity
   7. C++
-      
+      [code](https://github.com/arthurgomes4/rep1/tree/master/taskphase1)
   8. servo and stepper
       * [read](https://www.amci.com/industrial-automation-resources/plc-automation-tutorials/stepper-vs-servo/)
  -------
@@ -41,6 +41,7 @@
         lsa08
         debugger serial
   2. C++
+     [code](https://github.com/arthurgomes4/rep1/blob/master/task%202%20matrices.cpp)
  --------
 # Arduino
   1. fade
