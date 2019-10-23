@@ -58,3 +58,5 @@
      [check code](https://github.com/arthurgomes4/rep1/tree/master/Motorl239d)
   7. Motordriver mdd10a with 4 wheels
      [check code](https://github.com/arthurgomes4/rep1/tree/master/4wheelmdd10a)
+  8. SG90 servo
+     [check code](https://github.com/arthurgomes4/rep1/blob/master/sg90.ino)
